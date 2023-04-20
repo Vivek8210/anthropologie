@@ -306,7 +306,7 @@ const Navbar = () => {
                 borderRight: "1px solid #d3d3d3",
               }}
             >
-              <a href="" style={{ padding: "0px 20px" }}>
+              <a href="/" style={{ padding: "0px 20px" }}>
                 <img
                   id="search-area-img"
                   src="https://images.ctfassets.net/5de70he6op10/y1O9tEDOvCGliGUvT9RoJ/eb8ab4734c5e3778b8b61da70ed441ac/AL_NewLogo_2.svg"

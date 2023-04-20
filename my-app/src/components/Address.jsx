@@ -67,11 +67,7 @@ const Address = () => {
   }
 
   return isAuth? (<>
-    {/* <div className={style.boxs4}>
-       <h5>Check out as a guest</h5>
-       <span className={style.box1}>Email Address:*</span><br />
-       <input onChange={handleChange} name='email' required type="text" className={style.box7}  />
-    </div>  */}
+  
     
     <div className={style.container}>
       <div className={style.main}>
@@ -214,7 +210,7 @@ const Address = () => {
         </div>
       </div>
     </div>
-    {/* <a className="btn btn-primary" data-bs-toggle="modal" href="#exampleModalToggle" role="button">Open first modal</a> */}
+  
 
 
       <button data-bs-toggle="modal" href="#exampleModalToggle" role="button">SIGN IN</button>
